@@ -1,0 +1,52 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required{
+  	padding: 2%;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 1%;
+    width: 50%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 13px;
+}
+
+input.wpcf7-form-control.wpcf7-text{
+  	padding: 2%;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 1%;
+    width: 50%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 13px;
+}
+
+textarea.wpcf7-form-control.wpcf7-textarea{
+  	padding: 2%;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 1%;
+    width: 50%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 13px;
+}
+
+input.wpcf7-form-control.wpcf7-submit{
+  	width: 50%;
+	background: #27AE60;
+	font-weight: bold;
+	color: white;
+	border: 0 none;
+	border-radius: 1px;
+	cursor: pointer;
+	padding: 10px 5px;
+	margin: 10px 5px;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->
